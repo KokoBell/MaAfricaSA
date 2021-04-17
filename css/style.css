@@ -416,7 +416,6 @@ a.nav-link {
   margin-top: 80px;
   margin-left: 60px;
   width: 450px;
-  overflow: hidden;
 }
 
 /* RESPONSIVE MEDIA QUERY */
@@ -430,7 +429,7 @@ a.nav-link {
   }
   .about-right-img img {
     display: inline-block;
-    width: 400px;
+    width: 100%;
     margin-top: 100px !important;
   }
 }
