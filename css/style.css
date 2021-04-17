@@ -12,6 +12,11 @@ body {
 html {
   scroll-behavior: smooth;
 }
+
+body, html {
+  height: 100%;
+  width: 100%;
+}
 .active {
   border-bottom: 7px solid #000000 !important;
   transition: 0.3s;
