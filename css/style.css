@@ -547,7 +547,7 @@ a.nav-link {
   border-style: solid;
   border-width: 35px 0 35px 100px;
   border-color: transparent transparent transparent #ed3237;
-  z-index: 0;
+  z-index: -1;
 }
 .course-right {
   background-color: #ed3237;
