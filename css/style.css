@@ -467,13 +467,13 @@ a.nav-link {
 }
 .course-wrapper p {
   font-size: 20px;
-  z-index: 2;
+  z-index: 0;
 }
 .course-left {
   background-color: #000;
   font-size: 27px;
   padding: 21px 0 2px 0;
-  z-index: -1;
+  z-index: -2;
 }
 
 .course-angle-1 {
