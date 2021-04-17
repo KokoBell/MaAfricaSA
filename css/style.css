@@ -467,6 +467,7 @@ a.nav-link {
 }
 .course-wrapper p {
   font-size: 20px;
+  z-index: 5;
 }
 .course-left {
   background-color: #000;
@@ -476,7 +477,6 @@ a.nav-link {
 
 .course-angle-1 {
   position: relative;
-  z-index: -1;
 }
 .course-angle-1::after {
   content: "1.";
