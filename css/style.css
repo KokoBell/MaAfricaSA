@@ -536,19 +536,7 @@ a.nav-link {
   left: 1%;
   color: #fff;
 }
-.course-left::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  width: 0;
-  height: 0;
-  border-style: solid;
-  border-width: 35px 0 35px 100px;
-  border-color: transparent transparent transparent #ed3237;
-  z-index: -1;
-}
+
 .course-right {
   background-color: #ed3237;
   font-size: 27px;
