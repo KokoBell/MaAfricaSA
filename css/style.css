@@ -476,67 +476,6 @@ a.nav-link {
   z-index: -2;
 }
 
-.course-angle-1 {
-  position: relative;
-}
-.course-angle-1::after {
-  content: "1.";
-  position: absolute;
-  top: 25%;
-  left: 1%;
-  color: #fff;
-}
-
-.course-angle-2::after {
-  content: "2.";
-  position: absolute;
-  top: 25%;
-  left: 1%;
-  color: #fff;
-}
-.course-angle-3::after {
-  content: "3.";
-  position: absolute;
-  top: 25%;
-  left: 1%;
-  color: #fff;
-}
-.course-angle-4::after {
-  content: "4.";
-  position: absolute;
-  top: 25%;
-  left: 1%;
-  color: #fff;
-}
-.course-angle-5::after {
-  content: "5.";
-  position: absolute;
-  top: 25%;
-  left: 1%;
-  color: #fff;
-}
-.course-angle-6::after {
-  content: "6.";
-  position: absolute;
-  top: 25%;
-  left: 1%;
-  color: #fff;
-}
-.course-angle-7::after {
-  content: "7.";
-  position: absolute;
-  top: 25%;
-  left: 1%;
-  color: #fff;
-}
-.course-angle-8::after {
-  content: "8.";
-  position: absolute;
-  top: 25%;
-  left: 1%;
-  color: #fff;
-}
-
 .course-right {
   background-color: #ed3237;
   font-size: 27px;
