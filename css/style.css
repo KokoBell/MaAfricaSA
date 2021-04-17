@@ -482,6 +482,7 @@ a.nav-link {
 
 .course-angle-1 {
   position: relative;
+  z-index: -1;
 }
 .course-angle-1::after {
   content: "1.";
@@ -489,7 +490,6 @@ a.nav-link {
   top: 25%;
   left: 1%;
   color: #fff;
-  z-index: -1;
 }
 
 .course-angle-2::after {
