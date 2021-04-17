@@ -484,7 +484,7 @@ a.nav-link {
   position: absolute;
   top: 25%;
   left: 1%;
-  z-index: 1;
+  color: #fff;
 }
 
 .course-angle-2::after {
@@ -546,7 +546,8 @@ a.nav-link {
   height: 0;
   border-style: solid;
   border-width: 35px 0 35px 100px;
-  border-color: transparent transparent transparent #b0e717;
+  border-color: transparent transparent transparent #ed3237;
+  z-index: 1;
 }
 .course-right {
   background-color: #ed3237;
