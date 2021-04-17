@@ -482,7 +482,7 @@ a.nav-link {
 
 .course-angle-1 {
   position: relative;
-  z-index: -1;
+  
 }
 .course-angle-1::after {
   content: "1.";
