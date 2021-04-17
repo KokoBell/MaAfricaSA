@@ -407,15 +407,15 @@ a.nav-link {
 }
 .about-right-img {
   background-image: url("../img/right-angle.png");
-  background-size: 450px 450px;
+  background-size: 400px 400px;
   background-position: center;
   background-repeat: no-repeat;
-  height: 70vh;
+  height: 60vh;
 }
 .about-right-img img {
   margin-top: 80px;
   margin-left: 60px;
-  width: 400px;
+  width: 85%;
 }
 
 /* RESPONSIVE MEDIA QUERY */
